@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-dashboard/static/css/main.4af5a2cb.css",
+    "main.js": "/react-dashboard/static/js/main.67f9dedf.js",
+    "static/js/453.35025e6b.chunk.js": "/react-dashboard/static/js/453.35025e6b.chunk.js",
+    "static/media/person4.jpg": "/react-dashboard/static/media/person4.305cf2f2fd30ff351572.jpg",
+    "static/media/person11.jpg": "/react-dashboard/static/media/person11.507c4eb31addead43673.jpg",
+    "static/media/person15.jpg": "/react-dashboard/static/media/person15.0dc73f21cfe18dfc8d79.jpg",
+    "static/media/person10.jpg": "/react-dashboard/static/media/person10.6a59c2d92299e9db8555.jpg",
+    "static/media/person14.jpg": "/react-dashboard/static/media/person14.2dafc4257521d5e4df2e.jpg",
+    "static/media/person9.jpg": "/react-dashboard/static/media/person9.b0496f527bbb2c3f791d.jpg",
+    "static/media/person3.jpg": "/react-dashboard/static/media/person3.e23dfc9af5e8f495317a.jpg",
+    "static/media/person1.jpg": "/react-dashboard/static/media/person1.d172a4aa696c28ddce47.jpg",
+    "static/media/ankur.jpg": "/react-dashboard/static/media/ankur.d9e2e13a615f1ca39289.jpg",
+    "index.html": "/react-dashboard/index.html",
+    "main.4af5a2cb.css.map": "/react-dashboard/static/css/main.4af5a2cb.css.map",
+    "main.67f9dedf.js.map": "/react-dashboard/static/js/main.67f9dedf.js.map",
+    "453.35025e6b.chunk.js.map": "/react-dashboard/static/js/453.35025e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af5a2cb.css",
+    "static/js/main.67f9dedf.js"
+  ]
+}
